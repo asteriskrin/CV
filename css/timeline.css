@@ -1,0 +1,13 @@
+.timeline dt {
+	font-weight: bold;
+	color: #525046;
+}
+.timeline:after {}
+.timeline dd:before {
+	font-weight: bold;
+	color: #525046;
+}
+.timeline dd {
+	margin: 0 0 0 110px;
+	padding: 0 0 0.5em 0;
+}

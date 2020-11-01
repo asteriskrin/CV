@@ -1,0 +1,33 @@
+.card {
+	padding: 20px;
+}
+.card .card-header {
+	font-size: 25px;
+	font-weight: bold;
+	padding: 10px;
+	color: #525046;
+}
+.card .card-header-underline {
+	border-bottom: 2px solid #525046;
+	width: 75%;
+	display: block;
+}
+.card .card-header-close {
+	margin-top: auto;
+	margin-botton: auto;
+	background-color: blue;
+	float: right;
+	display: inline-block;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 8px 20px;
+	color: white;
+	border: none;
+	background-color: #665f4d;
+}
+.card .card-header-close:hover {
+	background-color: #7d755e;
+}
+.card .card-content {
+	padding: 0 10px 0 10px;
+}

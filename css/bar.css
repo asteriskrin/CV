@@ -1,0 +1,10 @@
+.progress {
+	padding: 1px;
+	background-color: #a19595;
+}
+
+.progress > div {
+	background-color: #292929;
+	width: 100%;
+	height: 5px;
+}
